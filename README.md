@@ -2,56 +2,48 @@
 
 <div align="center">
 
-  <!-- BORDE SUPERIOR DEL BOLETO -->
-  <code>🎟️ DIGITAL CIRCUS ENTERTAINMENT 🎟️</code>
-  <br>
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+  <!-- BORDE IZQUIERDO DEL BOLETO INTERACTIVO -->
+  <p>🎟️ ─── DIGITAL TICKET SYSTEM // ADMIT ONE ─── 🎟️</p>
 
-  <!-- CABECERA ESTILO CARTEL DE CIRCO -->
-  <!-- Puedes usar fuentes tipográficas llamativas convirtiendo texto a imagen -->
-  <h1>🎪 EL ASOMBROSO PERFIL DE [TU NOMBRE] 🎪</h1>
-  <p><i>¡Pase y vea el espectáculo del desarrollo y el modelado 3D!</i></p>
-  
-  <p><b>ADMIT ONE | ADMISIÓN GENERAL</b></p>
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+  <!-- CUERPO PRINCIPAL DEL BOLETO HORIZONTAL -->
+  <table border="0" cellpadding="20" cellspacing="0" style="background-color: #1a1a1a; border: 2px solid #ecd0a5; border-radius: 12px;">
+    <tr>
+      
+      <!-- COLUMNA 1: TU IMAGEN ANIMADA (GIF O SVG) -->
+      <td width="40%" align="center" valign="middle" style="border-right: 2px dashed #ecd0a5;">
+        <!-- Reemplaza este enlace por tu GIF animado de modelado 3D o diseño retro -->
+        <img src="URL_DE_TU_IMAGEN_ANIMADA.gif" width="100%" alt="Visual Animado" style="border-radius: 6px;" />
+        <br><br>
+        <small><code>SYSTEM_STATUS: ONLINE</code></small>
+      </td>
 
-  <!-- SECCIÓN DE TECNOLOGÍAS (Estilo Tickets/Cupones) -->
-  <h3>🌟 LAS ATRACCIONES PRINCIPALES (TECNOLOGÍAS) 🌟</h3>
-  <!-- Usamos insignias personalizadas con colores vintage (rojo circo, dorado, crema) -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <br><br>
+      <!-- COLUMNA 2: BLOQUE DE TEXTO Y DATOS -->
+      <td width="60%" valign="top" align="left">
+        <h2>🎪 @[Tu_Usuario] // ACME CORP</h2>
+        <p><b>ARGUS DIGITAL MENU v2.0</b></p>
+        <hr size="2" color="#ecd0a5">
+        
+        <p>AQUÍ VA TU DESCRIPCIÓN: Soy diseñador y modelador 3D enfocado en crear experiencias visuales retro-futuristas. Exploro la unión entre lo análogo y las interfaces digitales.</p>
+        
+        <!-- ESPACIO PARA TUS INSIGNIAS / TECNOLOGÍAS -->
+        <p>
+          <img src="https://shields.io" />
+          <img src="https://shields.io" />
+          <img src="https://shields.io" />
+        </p>
 
-  <!-- SECCIÓN DOS: EN PREPARACIÓN -->
-  <h3>🔮 PRÓXIMOS ACTOS (APRENDIENDO) 🔮</h3>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+        <br>
+        <p align="right">
+          <!-- Detalle estético de precio/código similar a tu referencia -->
+          <small>PRICE: $$$ ─── NO REFUNDS</small>
+        </p>
+      </td>
 
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+    </tr>
+  </table>
 
-  <!-- AUTOMATIZACIONES (YOUTUBE / PORTAFOLIO) -->
-  <!-- Aquí el robot pegará tus novedades simulando el "itinerario" del circo -->
-  <h3>🎬 FUNCIÓN EN VIVO: ÚLTIMOS VIDEOS 🎬</h3>
-  <!-- YOUTUBE-CARDS:START -->
-  <!-- YOUTUBE-CARDS:END -->
-
-  <br>
-
-  <h3>🎨 GALERÍA DE MARAVILLAS 3D </h3>
-  <!-- 3D-PORTFOLIO:START -->
-  <!-- 3D-PORTFOLIO:END -->
-
-  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-  <!-- PIE DEL BOLETO (CÓDIGO DE BARRAS DIGITAL) -->
-  <p>NO REFUNDS // @[Tu_Usuario_De_GitHub]</p>
-  
-  <!-- Este es un truco con una fuente para simular un código de barras real -->
-  <font size="6"><b>||||| | | |||| || ||| | ||| || |||||</b></font>
-  
-  <br><br>
-  <p><small>Código abierto bajo la <a href="LICENSE">Licencia MIT</a></small></p>
+  <!-- DETALLE DEL PIE: CÓDIGO DE BARRAS -->
+  <p>||||| ||| | ||||| | || |||||||| |||| | |</p>
+  <p><small>Boleto de código abierto protegido bajo la <a href="LICENSE">Licencia MIT</a></small></p>
 
 </div>
