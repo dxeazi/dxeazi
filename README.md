@@ -1,1 +1,1 @@
-![image alt](https://github.com/dxeazi/dxeazi/blob/60199544c61938d42cd4f4fc388a9547bd33b544/dxeazi_banner.png)
+![image alt](https://github.com/dxeazi/dxeazi/blob/888b5656d40acb01a51ecbcc0ccd8c4a1eee6b4d/dxeazi_banner.png)
